@@ -1,0 +1,19 @@
+.DS_Store
+.cache
+
+# Log files
+Logs
+
+# tmp files
+*.swn
+*.swo
+*.swp
+*~
+
+# python 
+__pycache__/
+*.pyc
+/FCND-Backyard-Flyer.iml
+/.idea/
+/.vscode/
+/setup.cfg
